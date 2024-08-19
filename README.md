@@ -1,6 +1,6 @@
 # cordova-plugin-local-notification (fork)
 
-This is a fork of `cordova-plugin-local-notification` by [Moodle HQ](https://moodle.com/). If you are looking for the documentation, you can read the original at [katzer/cordova-plugin-local-notifications](https://github.com/katzer/cordova-plugin-local-notifications).
+This is a fork of [@moodlehq/cordova-plugin-local-notification](https://github.com/moodlemobile/cordova-plugin-local-notification). If you are looking for the documentation, you can read the original at [katzer/cordova-plugin-local-notifications](https://github.com/katzer/cordova-plugin-local-notifications).
 
 ## Modifications from the original
 
@@ -24,8 +24,8 @@ You can see all the changes here: [0.9.0-beta.3...moodlemobile:v0.9.0-moodle.12]
 
 ## Installation
 
-You can install this package using the [original installation instructions](https://github.com/katzer/cordova-plugin-local-notifications#installation), but installing this package instead:
+You can install this package using:
 
 ```sh
-cordova plugin add @moodlehq/cordova-plugin-local-notification@0.9.0-moodle.12
+cordova plugin add https://github.com/zikeron/cordova-plugin-local-notifications.git
 ```
